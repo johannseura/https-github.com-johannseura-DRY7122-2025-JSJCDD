@@ -1,0 +1,10 @@
+nombre = input("Nombre: ")
+apellido = input("Apellido: ")
+codigo_seccion = input("Código - Sección: ")
+sede = input("Sede: ")
+
+print("\nInformación ingresada:")
+print(f"Nombre: {nombre}")
+print(f"Apellido: {apellido}")
+print(f"Código - Sección: {codigo_seccion}")
+print(f"Sede: {sede}")

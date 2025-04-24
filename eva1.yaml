@@ -1,0 +1,10 @@
+---
+id_usuario: "usr_5f3a2b1c8d9e"
+token_seguridad: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNTY3OCJ9.3a4b5c6d7e8f9g0h1i2j3k4l5m6n7o8p9q0r1s2t3"
+validez_token: 86400  # 24 horas en segundos
+token_actualizacion: "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0"
+validez_actualizacion: 2592000  # 30 días en segundos
+fecha_creacion: "2023-11-15T14:30:00Z"
+ultima_autenticacion: "2023-11-20T09:15:22Z"
+estado: "activo"
+rol: "usuario_premium"
